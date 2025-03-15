@@ -10,14 +10,7 @@ Handled missing values
 Removed duplicate entries
 Corrected data types
 Standardized text formatting
-Detected & handled outliers using the IQR method
-
-📊 Insights Extracted
-Most expensive & highest-rated apps
-Most popular app categories & genres
-Revenue estimation based on downloads
-Free vs. Paid apps comparison
-Correlation between app size, rating, and installs
+Detected & handled outliers 
 
 🔥 Heatmap Visualization
 A correlation heatmap was created to uncover relationships between different features, revealing trends such as:
